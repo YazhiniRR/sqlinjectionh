@@ -39,8 +39,8 @@ Click on the menu Login/Register and register for an account
 ![Screenshot 2023-06-10 214003](https://github.com/praveenst13/sqlinjection/assets/118787793/dfe4513c-3c0d-43e0-b1e4-ad4baee43b98)
 
 Click on the link “Please register here”
-
-![Screenshot 2023-06-10 214117](https://github.com/praveenst13/sqlinjection/assets/118787793/abd46fae-74a4-48e7-9f95-8eb1470cfe3c)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4a2abbd1-9062-445b-a175-dc5e0b56d982" />
+)
 
 Click on “Create Account” to display the following page:
 
@@ -52,7 +52,8 @@ The login structure we will use in our examples is straightforward. It contains 
  For the username put “ganesh” or “anything” and for the password put (anything’ or ‘1’=’1) or (admin’ or ‘1’=’1) then try to log in, and you’ll be presented with an admin login page.
 
 
-![Screenshot 2023-06-10 223438](https://github.com/praveenst13/sqlinjection/assets/118787793/8ae683e6-f569-42f3-9c38-82bc3f9e6f41)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/66ccd27f-c760-4ad4-90d1-871abccb02a1" />
+
 
 Click “Login”. The logged in page will show as below:
 
@@ -66,7 +67,7 @@ The username field is vulnerable. Put (ganesh’ #) or (ganesh’--) in the user
 
 Now after logging out you will see the login page. In the login page give ganesh’ # . You can see the page now enters into the administrator page as before when giving the password. 
 
-![Screenshot 2023-06-10 223645](https://github.com/praveenst13/sqlinjection/assets/118787793/cb326fd0-509f-4df9-b97d-8a65bf1f0716)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/880e97a6-18c8-4f80-96b6-0b763ea4440a" />
 
 Click the login button and you will see it enter into the administrator page.
 
@@ -82,12 +83,7 @@ After logging out, Now choose the menu as shown below:
 ![img](Screenshot_2023-06-10_13_13_23.png)
 ![Screenshot 2023-06-10 224221](https://github.com/praveenst13/sqlinjection/assets/118787793/123993df-2a2b-455f-abde-8904a72314dd)
 
-
-![Screenshot 2023-06-10 224420](https://github.com/praveenst13/sqlinjection/assets/118787793/9b365f7e-d511-4ff4-a5fb-d33ee779cb86)
-
 ![Screenshot 2023-06-10 224452](https://github.com/praveenst13/sqlinjection/assets/118787793/7b70cf08-aa04-4ba1-b7e5-12f048c98c57)
-
-![Screenshot 2023-06-10 224520](https://github.com/praveenst13/sqlinjection/assets/118787793/713a7087-4c4a-49a0-8c23-92af437df4b1)
 
 ![Screenshot 2023-06-10 224530](https://github.com/praveenst13/sqlinjection/assets/118787793/a242176f-df4f-4eb2-8296-0671fd7d7264)
 
